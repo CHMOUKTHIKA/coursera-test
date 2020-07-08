@@ -43,12 +43,9 @@ body {
 }
 #collapsable-nav a{
 	padding:0px;
-	color: #FF69B4;
+	color: #8B4513;
 	font-weight: bold;
 	text-align: center;  
- }
- #collapsable-nav{
- 	background-color: #4682B4;
  }
 }
 h1{
