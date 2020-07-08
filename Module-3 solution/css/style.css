@@ -88,6 +88,12 @@ section p {
     font-size: 1.2em;
     
   }
+  section section{
+  	height: 150%;
+  }
+  section p{
+  	height: 150%;
+  }
   .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
   border: 1px solid #61122f;
 }
